@@ -40,7 +40,7 @@ Connect with me
 <img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
 </a> &nbsp;
 
-<a href="https://linkedin.com/in/şeyma-yilmazer" target="_blank">
+<a href="linkedin.com/in/şeyma-yilmazer-16b729110" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> &nbsp;
 
