@@ -36,7 +36,7 @@ Connect with me
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> &nbsp;
 
-<a href="https://www.medium.com/esim794/?hl=tr" target="_blank">
+<a href="https://medium.com/@esim794" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=green alt=medium style="margin-bottom: 5px;" />
 </a> &nbsp;
 
